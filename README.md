@@ -2,4 +2,4 @@
 
 2)Still working on the Login link
 
-3)The CSS design looks catchy check it once.
+3)The CSS design is in professional style check it once.
