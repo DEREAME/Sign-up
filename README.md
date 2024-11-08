@@ -1,3 +1,5 @@
-This is a simple sign Up form 
-Still working on the Login link
-The Css design looks catchy check it once.
+1)This is a simple sign up form 
+
+2)Still working on the Login link
+
+3)The CSS design looks catchy check it once.
